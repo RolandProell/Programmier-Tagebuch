@@ -1,0 +1,10 @@
+.palyground {
+    border-style: solid;
+    width: 510px;
+    height: 510px;
+}
+
+.palyground > img {
+    position: relative;
+}
+

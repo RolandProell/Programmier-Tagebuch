@@ -1,0 +1,14 @@
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\bin\Debug\net8.0\Maze.exe
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\bin\Debug\net8.0\Maze.deps.json
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\bin\Debug\net8.0\Maze.runtimeconfig.json
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\bin\Debug\net8.0\Maze.dll
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\bin\Debug\net8.0\Maze.pdb
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.AssemblyInfoInputs.cache
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.AssemblyInfo.cs
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.dll
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\refint\Maze.dll
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.pdb
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\Maze.genruntimeconfig.cache
+C:\Users\roland\Documents\schule\2DHIF\C#stuff\Maze\obj\Debug\net8.0\ref\Maze.dll
